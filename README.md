@@ -18,8 +18,8 @@ ou
 [https://www.sublimetext.com/](https://www.sublimetext.com/) pour Mac, Linux,windows
 	
  
-# Après l'atelier :
-	[http://www.pixaline.net/intra/Atelier-accalandre/done/ex01/](Démonstration du corrigé) .
+# Après l'atelier : 
+[Démonstration du corrigé](http://www.pixaline.net/intra/Atelier-accalandre/done/ex01/) .
 	
 [Apix](http://www.pixaline.net/) pour  [L'accalandre](https://www.facebook.com/Accalandre/) 
 	
