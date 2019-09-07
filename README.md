@@ -1,6 +1,6 @@
 # Atelier ACCALANDRE 2019
 #  Initiation à la programmation avec JavaScript
-https://codepen.io/Apix/pen/jjeoxX
+
 # Pré-requis :
  
 Connaître un minimum le HTML et les styles CSS est un plus.
@@ -18,7 +18,8 @@ ou
 [https://www.sublimetext.com/](https://www.sublimetext.com/) pour Mac, Linux,windows
 	
  
-	
+# Après l'atelier :
+	[http://www.pixaline.net/intra/Atelier-accalandre/done/ex01/](Démonstration du corrigé) .
 	
 [Apix](http://www.pixaline.net/) pour  [L'accalandre](https://www.facebook.com/Accalandre/) 
 	
