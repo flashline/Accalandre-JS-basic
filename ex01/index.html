@@ -1,13 +1,24 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>1er prog js</title>
-	<meta charset="utf-8" />
-</head>
+<head><title>1er prog js</title><meta charset="utf-8" /></head>
 	<body>
 		<h1>Mon 1er prog js</h1><hr>
-		<div id="header">Les résultat des tests :</div><hr>
-		<!-- balise minimum pour relier JS à la page html : -->
+		<div id="header">Les résultat des tests :</div><hr>	
+		<div id="divContact" style="text-align:right;width:400px;display:block;">
+			<form  action="http://www.pixaline.net/intra/Atelier-accalandre/done/ex01/sendMail.php" method="GET" id="formMail">
+				Prénom : 				<input type="text" 				id="prenom" name="prenom"	value=""/><br/>
+				Nom : 					<input type="text" 				id="nom"  	name="nom" value="" /><br/>				
+				Message : <br>	
+										<textarea cols="35" rows="5"	id="info"   name="info"  value=""></textarea><br/>
+				<br/>
+				Email du destinataire : <input type="text" 				id="email"  name="email" value=""/><br/>		
+				<br/> 
+			</form>
+			<button type="button" id="razForm" >Effacer</button>
+			<button type="button" id="valide" >Valider</button><br/>
+		</div>
+		<br/>
+		<!-- balise minimum pour relier JS à la page html : -->		
 		<script src="index.js"></script>
 	</body>
 </html>
