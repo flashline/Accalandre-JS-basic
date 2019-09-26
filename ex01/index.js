@@ -19,3 +19,8 @@
 
 
 // Les événements
+
+
+// NB
+// à copier/coller :
+// for (var i=0;i<eleves.length;i++)
